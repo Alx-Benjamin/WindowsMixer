@@ -1,9 +1,10 @@
 <div align="center">
 
 # Windows Mixer
+<img width="337" height="199" alt="image" src="https://github.com/user-attachments/assets/6c68f026-9e18-4b8a-97c5-4524d24cc1f2" />
 
 Per-app volume control for the Windows taskbar.<br>
-Right-click any app or use your keyboard — without touching system volume.
+Right-click any app or use your keyboard, without touching system volume.
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/MfW5Mt7KUe)
 [![Website](https://img.shields.io/badge/Website-AlxBenjamin.com-0A7AFF?logo=safari&logoColor=white)](https://alxbenjamin.com)
@@ -18,7 +19,7 @@ Right-click any app or use your keyboard — without touching system volume.
 
 ## What It Does
 
-Windows Mixer gives you per-application volume control directly from the Windows taskbar. Right-click any running app to get a slider for that app's audio — completely separate from system volume. Or hold **Ctrl** or **Shift** while pressing your hardware volume keys to control just the app you're focused on, without leaving your current window.
+Windows Mixer gives you per-application volume control directly from the Windows taskbar. Right-click any running app to get a slider for that app's audio, completely separate from system volume. Or hold **Ctrl** or **Shift** while pressing your hardware volume keys to control just the app you're focused on, without leaving your current window.
 
 ---
 
